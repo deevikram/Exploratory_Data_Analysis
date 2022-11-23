@@ -1,4 +1,13 @@
 # Exploratory_Data_Analysis
+
+
+![image](https://user-images.githubusercontent.com/83994337/203661658-065c0ad9-4c0a-4023-93a2-4cfded98d3a9.png)
+
+![image](https://user-images.githubusercontent.com/83994337/203661676-d9860405-ee08-45a2-8ce9-15e6bd08be3c.png)
+
+
+
+
 Exploratory data analysis for a dataset that contains 3 treadmill products
 
 Introduction
