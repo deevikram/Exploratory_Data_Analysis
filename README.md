@@ -26,6 +26,9 @@
 
 ![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/8c320ea1-98e1-4874-bf3f-5f49e46192b5)
 
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/d4dcd09f-1bcd-4790-afcc-742b3d65bc93)
+
+
 
 
 
