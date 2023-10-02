@@ -1,13 +1,20 @@
 
 
 
-![image](https://user-images.githubusercontent.com/83994337/203661658-065c0ad9-4c0a-4023-93a2-4cfded98d3a9.png)
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/41dac64e-c5dd-4959-bc1e-b1b6162b9376)
+
 
 ![image](https://user-images.githubusercontent.com/83994337/203661676-d9860405-ee08-45a2-8ce9-15e6bd08be3c.png)
 
 ![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/34b0a876-37e8-47f8-abae-4bf603103c3b)
 
 ![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/9738c8d2-8d9c-4eab-8267-923d55ece748)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/37b8dbc1-0492-4a42-9049-876a32a172a5)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/614ffb73-2c51-41a2-a794-5297975bcc61)
+
+
 
 
 
