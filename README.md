@@ -5,6 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/83994337/203661676-d9860405-ee08-45a2-8ce9-15e6bd08be3c.png)
 
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/34b0a876-37e8-47f8-abae-4bf603103c3b)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/9738c8d2-8d9c-4eab-8267-923d55ece748)
+
 
 
 
