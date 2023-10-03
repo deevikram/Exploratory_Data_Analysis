@@ -32,6 +32,14 @@
 
 ![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/afe4590a-87fc-4493-b414-3b29eea5c87c)
 
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/aa701acc-7486-4cdd-b559-84976e9b89e8)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/31d06f71-9f45-4c6a-a863-21eddf0efc1e)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/8f2174a4-ef4f-45ba-ab13-b2a8237c0a5b)
+
+
+
 
 
 
