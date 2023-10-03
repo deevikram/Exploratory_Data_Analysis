@@ -44,6 +44,25 @@
 
 ![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/b54407f4-0e28-4cc9-b859-4da3ed26a699)
 
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/c4e58a49-08c4-4548-baf2-38b4aca3bd24)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/4f9b35f4-098d-47b8-87d8-8709aaf17627)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/71f2bede-14a5-4686-8d00-9ca8f73a7a22)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/1ed8f96a-1a48-46c3-873d-a3cb3a7e676e)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/b6a4ed6c-9db1-4698-bdb4-83dcd01d306c)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/4f37d4eb-55a2-4fdb-8fd3-fe77a0d3296e)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/9d35c5fa-c7c0-42e0-b527-e709d9e6e42a)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/1005810f-2a85-4248-aefd-bf6bab8a479a)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/5bbc6897-618f-4149-85c9-1470be3ae021)
+
+![image](https://github.com/deevikram/Exploratory_Data_Analysis/assets/83994337/ecbcaab9-5bc3-4fda-aed3-aa43f887791f)
 
 
 
@@ -60,6 +79,14 @@
 
 
 
+
+
+
+
+
+
+
+Code: 
 
 Exploratory data analysis for a dataset that contains 3 treadmill products
 
